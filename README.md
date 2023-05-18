@@ -1,2 +1,1 @@
-# blockchain implementation
- this is a project i worked on during Discovery grad hack hackathon, it is a way for the company to increase speed reliability and increase transperancy by not unsing traditional databases but instead use blockchain to make transactions...ie this blockchain is a beta version and does not include all properties of blockchain but includes all major properties(e.g transparency,transecting,smart contracts etc.)) 
+# Discovery-Vitality
